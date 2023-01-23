@@ -2,7 +2,7 @@
 Machine Learning Applied to Stock &amp; Crypto Trading - Python (by Udemy)
 
 
-Gain an edge in financial trading through deploying Machine Learning techniques to financial data using Python. In this course, you will:
+Gain an edge in financial trading through deploying Machine Learning techniques to financial data using Python. In this course, I will:
 
 - Discover hidden market states and regimes using Hidden Markov Models.
 
